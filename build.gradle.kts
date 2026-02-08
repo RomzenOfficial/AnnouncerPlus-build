@@ -33,7 +33,7 @@ dependencies {
   compileOnly("net.essentialsx", "EssentialsX", "2.20.0") {
     isTransitive = false
   }
-  compileOnly("me.clip", "placeholderapi", "2.11.3")
+  compileOnly("me.clip", "placeholderapi", "2.11.6")
 
   implementation(platform("net.kyori:adventure-bom:4.14.0"))
   implementation("net.kyori", "adventure-extra-kotlin")
